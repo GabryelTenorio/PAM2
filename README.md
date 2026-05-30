@@ -1,9 +1,9 @@
-npx expo install react-dom react-native-web @expo/metro-runtime
+# PAM2
 
-e depois:
+Projeto React vazio para PAM2.
 
+Como rodar:
+
+cd react_vazio/vazio
+npm install
 npm run web
-
-O script web está executando:
-
-expo start --web
